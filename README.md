@@ -38,12 +38,12 @@ Técnico de Nivel Superior en Informática — **Distinción Máxima** (IACC, 20
 
 ## 💼 Proyectos destacados
 
-### [Propinapp](https://github.com/Davidmallega/Propinapp) — SaaS en desarrollo
+### Propinapp — SaaS en desarrollo
 Plataforma web para gestión de propinas y distribución de ganancias entre personal de establecimientos.  
 `React 19` `Vite` `Tailwind CSS 4` `Firebase` `Cloud Functions` `MercadoPago` `Scrum`  
 10 sprints · +40 historias de usuario · Rate limiting · Helmet · CORS · Audit logs
 
-### GastosApp — App de escritorio
+### GastosApp — App de escritorio en desarrollo
 Sistema de control de gastos empresariales con importación del Libro de Compras SII (CSV).  
 `React` `Vite` `Electron` `localStorage`  
 Facturas SII · Notas de Crédito cross-período · Compromisos recurrentes · Build multiplataforma
