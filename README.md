@@ -1,11 +1,11 @@
-# Hola, soy David Mallega 👋
+# Hola, soy David Mallega 
 
 Fullstack Developer desde Santiago, Chile 🇨🇱  
 Técnico de Nivel Superior en Informática — **Distinción Máxima** (IACC, 2026)
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -20,7 +20,7 @@ Técnico de Nivel Superior en Informática — **Distinción Máxima** (IACC, 20
 
 ---
 
-## 🚀 Serie GCP — 9 proyectos fullstack en producción
+## Serie GCP — 9 proyectos fullstack en producción
 
 | # | Proyecto | Stack principal | Demo |
 |---|----------|----------------|------|
