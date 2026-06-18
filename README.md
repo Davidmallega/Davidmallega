@@ -22,17 +22,17 @@ Técnico de Nivel Superior en Informática — **Distinción Máxima** (IACC, 20
 
 ## Serie GCP — 9 proyectos fullstack en producción
 
-| # | Proyecto | Stack principal | Demo |
-|---|----------|----------------|------|
-| 1 | [Mini Tienda](https://github.com/Davidmallega/Mini-Tienda) | React · Node.js · Cloud Run | — |
-| 2 | [Galería Cloud Storage](https://github.com/Davidmallega/Galeria-Cloud-Storage) | React · Multer · Cloud Storage | — |
-| 3 | [Transferencia Bancaria](https://github.com/Davidmallega/Transferencia-Bancaria) | Node.js · Pub/Sub · Cloud Run | — |
-| 4 | [SismosCL](https://github.com/Davidmallega/SismosCL) | React · BigQuery · Recharts | — |
-| 5 | [Chat Live](https://github.com/Davidmallega/Chat-Live) | React · Firestore · Auth | [🔗](https://chat-live-518ec.web.app) |
-| 6 | [Clima Live](https://github.com/Davidmallega/Clima-live) | React · Secret Manager · Cloud Run | [🔗](https://clima-live.web.app) |
-| 7 | [Uptime Monitor](https://github.com/Davidmallega/Uptime-Monitor) | Cloud Scheduler · BigQuery · Firestore | [🔗](https://uptime-monitor-3d060.web.app) |
-| 8 | [Inspector IA](https://github.com/Davidmallega/Inspector-IA) | Vertex AI · Gemini · Cloud Run | — |
-| 9 | [ObjectLens](https://github.com/Davidmallega/Objectlens) | Cloud Vision API · Cloud Run | [🔗](https://objectlens-2026.web.app) |
+| # | Proyecto | Stack principal |
+|---|----------|----------------|
+| 1 | [Mini Tienda](https://github.com/Davidmallega/Mini-Tienda) | React · Node.js · Cloud Run |
+| 2 | [Galería Cloud Storage](https://github.com/Davidmallega/Galeria-Cloud-Storage) | React · Multer · Cloud Storage |
+| 3 | [Transferencia Bancaria](https://github.com/Davidmallega/Transferencia-Bancaria) | Node.js · Pub/Sub · Cloud Run |
+| 4 | [SismosCL](https://github.com/Davidmallega/SismosCL) | React · BigQuery · Recharts |
+| 5 | [Chat Live](https://github.com/Davidmallega/Chat-Live) | React · Firestore · Auth |
+| 6 | [Clima Live](https://github.com/Davidmallega/Clima-live) | React · Secret Manager · Cloud Run |
+| 7 | [Uptime Monitor](https://github.com/Davidmallega/Uptime-Monitor) | Cloud Scheduler · BigQuery · Firestore |
+| 8 | [Inspector IA](https://github.com/Davidmallega/Inspector-IA) | Vertex AI · Gemini · Cloud Run |
+| 9 | [ObjectLens](https://github.com/Davidmallega/Objectlens) | Cloud Vision API · Cloud Run |
 
 ---
 
